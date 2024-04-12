@@ -1,0 +1,31 @@
+.sidebar{
+    height: 100%;
+    width: 20%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #222222;
+    padding-top: 20px;
+    
+    
+}
+
+.menu-bars {
+    display: block;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+    border-bottom: 1px solid #555;
+}
+
+.menu-bars:hover {
+    background-color: #5E5E5E;
+}
+
+img{
+    height: 250px;
+}
+
+.open {
+    left: 0; /* Mostrando a barra lateral */
+}
